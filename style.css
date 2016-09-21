@@ -29,6 +29,10 @@
     text-align:center;
 }
 
+.txt-right {
+    text-align:right;
+}
+
 .bold {
     font-weight:bold;
 }
